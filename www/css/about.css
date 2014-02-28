@@ -1,0 +1,32 @@
+.orgs h2 {
+  color: #fff;
+  font-size: 40pt;
+  margin: 15px;
+  text-align: center;
+  font-weight: bold;
+}
+.orgs h4 {
+  color: #499ee9;
+  text-align: center;
+}
+.orgs p {
+  text-align: justify;
+  padding: 10px;
+}
+.ataglance {
+  line-height: 16pt;
+}
+.sponsors {
+  margin-left: 60px;
+}
+ul li {
+  margin-bottom: 10px;
+}
+ul li label {
+  width: 200px;
+  vertical-align: top;
+}
+ul li div {
+  display: inline-block;
+  width: 500px;
+}

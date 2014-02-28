@@ -1,0 +1,49 @@
+
+.charts h4 {
+  text-align: center;
+}
+
+.registrations {
+  padding: 10px;
+}
+.item {
+  margin: 5px 0
+}
+.item.claimed .column {
+  background: rgba(246, 92, 214, .2);
+}
+.item .expander {
+  padding: 20px;
+}
+.item .pair label {
+  color: #65c300;
+}
+.item.header {
+  background: rgba(255, 255, 255, .5);
+}
+.item.header .column {
+  text-align: center;
+  color: #000;
+  font-size: 12pt;
+}
+.item .name {
+}
+.item .column.center {
+  text-align: center;
+}
+.item .column.right {
+  text-align: right;
+}
+.item .column {
+  background: rgba(255, 255, 255, .08);
+  float: left;
+  width: 150px;
+  padding: 5px 10px;
+  margin: 1px;
+}
+.item .column.big {
+  width: 200px;
+}
+.item .column.small {
+  width: 70px;
+}

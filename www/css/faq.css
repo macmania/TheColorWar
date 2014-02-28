@@ -1,0 +1,15 @@
+.question {
+  color: #499ee9;
+  font-size: 14pt;
+  cursor: pointer;
+}
+.question:before {
+  content: "> ";
+  color:#f65cd6;
+}
+.answer {
+  display: none;
+}
+.pair {
+  margin-bottom: 20px;
+}

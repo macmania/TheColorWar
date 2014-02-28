@@ -1,0 +1,50 @@
+.modes a.link {
+  display: inline-block;
+  padding: 5px 10px;
+  margin: 5px;
+  color: #fff;
+  text-decoration: none;
+  background: rgba(255, 255, 255, .1);
+}
+
+.stats {
+  clear:both;
+  padding: 10px;
+}
+.stat {
+  float: left;
+  width: 140px;
+  margin-right: 20px;
+}
+
+.modes {
+  padding: 5px 20px;
+}
+
+.admin-links {
+  padding: 5px;
+}
+.admin-links a {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 5px;
+  color: #fff;
+  text-decoration: none;
+  background: rgba(255, 255, 255, .2);
+}
+
+.stat b {
+  font-weight: bold;
+  font-size: 24pt;
+  text-align: center;
+  display: block;
+  line-height: 30pt;
+  color: #ec642b;
+}
+
+.stat i {
+  text-align: center;
+  font-style: normal;
+  display: block;
+}
+

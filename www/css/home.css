@@ -1,0 +1,73 @@
+
+.slide, .slide .gradient {
+  height: 500px;
+}
+.content-box.jumbotron {
+  padding-top: 350px;
+  box-shadow: 5px 5px 80px #000;
+}
+.content-box .inner {
+  z-index: 10;
+  position: relative;
+}
+.slide {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1024px;
+  z-index: 5;
+}
+.taste-of-india {
+  width: 140px;
+}
+.taste-of-india .left {
+  width: 140px;
+}
+.taste-of-india .right {
+  width: 140px;
+  padding-right: 10px;
+  font-size: 1  2pt;
+  color: #999;
+  line-height: 20pt;
+  color: #65c300;
+  padding-top: 10px;
+}
+.left-caption {
+  width: 200px;
+  margin: 30px;
+  padding: 10px;
+  float:left;
+  text-align: center;
+  margin-top: 40px;
+  font-size: 13pt;
+  line-height: 20pt;
+  text-shadow: 0 0 10px #65c300;
+  color: #65c300;
+}
+.gradient {
+  background: url(/images/slides/overlays/large-left.png);
+  left: 0;
+  top: 0;
+  position: absolute; 
+  width: 700px;
+}
+.slide.concept {
+  background: url(/images/slides/photos/TheColorWarextened.jpg) no-repeat 0 0;
+}
+.slide .header {
+  background: url(/images/slides/headers/party-with-a-twist-register-closed.png) no-repeat 0 0;
+  width: 970px;
+  height: 265px;
+  left: 50px;
+  top: 50px;
+  position: absolute;
+}
+.slide a.register {
+  position: absolute;
+  left: 60px;
+  top: 180px;
+}
+
+
+
+.slide.

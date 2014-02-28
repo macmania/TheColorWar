@@ -1,0 +1,42 @@
+
+  array(
+    'question' => 'When is The Color War?',
+    'answer'   => 'The Color War is April, 27th 2013 at noon o'clock sharp. Everything happens at once so try to be a little early!'
+  ),
+  array(
+    'question' => 'How much does it cost?',
+    'answer'   => 'It depends on when you sign up and what package you decide to get! Available packages are listed on the registration page. Each package comes with a T-Shirt, but a varying amount of Color. Package one comes with 5 packaets of Color for $15. Package two comes with 7 packets of Color for $15. and Package three comes with 10 packets of Color for $20! If you don't buy them online, you run the risk of not getting Colors at the event! So get the early bird deal and sign up as soon as you can!</div>
+  ),
+  array(
+    'question' => 'Where Will It Be Happening?',
+    'answer'   => 'It will be happening on Virginia Tech's campus at The Duck Pond Field on West Campus Drive.</div>
+  ),
+  array(
+    'question' => 'What is included in the price?',
+    'answer'   => 'When you pay your registration fee, you're paying for your entry into The Color War, your Color, and The Color War T-Shirt!</div>
+  ),
+  array(
+    'question' => 'How much color do I get?',
+    'answer'   => 'Included in the registration fee is 10 bags of Color, that's about 10 handfuls, 10 friends coated, or 10 clouds of Color over your head. But if you think you want more, you can purchase more when you register! Depending on the amount of people who register on the day of, you may also buy a limited quanity when you show up.</div>
+  ),
+  array(
+    'question' => 'What should I wear?',
+    'answer'   => 'Your Color War T-Shirt is your ticket in, so wear it and prepare to get it colored! The Colors are water soluable, but that doesn't mean they won't temporarily stain, and we don't guarantee they won't permanetly stain! So wear clothes that you don't really care about. When you wash them afterwards, be sure to wash them separate from the rest of your clothes!</div>
+  ),
+  array(
+    'question' => 'How do I get the color to stay in my shirt?',
+    'answer'   => 'Get out the clear coat spray paint and apply 50 layers or until  the shirt is stiff. That's one way, or you can spray with vineger and iron it in, before you wash it! (Thank you Color Me Rad)</div>
+  ),
+  array(
+    'question' => 'Where do I get my wicked awesome Color War shirt?',
+    'answer'   => 'Shirts will be distributed the during week prior to the The Color War on the Drillfield. </div>
+  ),
+  array(
+    'question' => 'You keep saying "Color", what is it?',
+    'answer'   => 'Color is what we call it in the industry, but for all intents and purposes it is the colored  powder you will throw everywhere! Gluten intolerant? No Problem, our ingredients are 100% Gluten Free. Worried about the taste? No problem, made 100% from food products such as Turmeric. Worried about your skin? For one last time, no problem, the turmeric base is actually good for skin and makes you softer than a babies bottom when you're done.</div>
+  ),
+  array(
+    'question' => 'What is this "waiver" business?',
+    'answer'   => 'To purchase Color and go to the event you must fill out a waiver, which means you acknowledge the risks associated with Color!</div>
+  )
+  </div>
